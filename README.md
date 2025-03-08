@@ -10,4 +10,5 @@ Storage: 256GB NVME, 1TB Seagate HDD<br>
 GPU: Mancer RX550 Lexa 4GB<br>
 PSU: EVGA 400W<br><br>
 
+Working Setup:
 ![Working Setup:](print.png)
