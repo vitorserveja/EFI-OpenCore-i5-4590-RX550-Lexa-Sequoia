@@ -16,7 +16,7 @@ Open the terminal and type:<br>
 **`sudo diskutil mount /dev/yourdisk`** - this will mount your efi partition according to your disk (e.g. /dev/disk0s1)<br>
 <br>After that, just delete your old EFI and move the new EFI to the partition, and that's it!<br>
 you have a Hackintosh Sequoia/Sonoma with i5-4590 + RX550 Lexa working 100%.
-<br><b>If you need help, I am available to help via <a href="mailto:paigeduarte620@gmail.com">email!</a></b>
+<br><b>If you need help, I am available to help via <a href="https://discord.gg/YT3yTaHsrK">Discord!</a></b>
 
 <b>Working Setup:</b><br>
 ![Working Setup:](print.png)
