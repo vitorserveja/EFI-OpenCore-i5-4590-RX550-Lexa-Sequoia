@@ -1,4 +1,7 @@
 # EFI OpenCore macOS Sequoia/Sonoma on i5-4590 & RX550-Lexa
+
+NÃO USE (ESTÁ EXTREMAMENTE INSTAVEL, É USAVEL MAS PRECISA DE UM UPDATE QUE JÁ ESTÁ A CAMINHO)
+
 <b>PT-iNFO: Pasta EFI de configuração do OpenCore com suporte ao i5-4590 e RX550 Lexa!<br>
 EN-iNFO: OpenCore Configuration EFI Folder with i5-4590 and RX550 Lexa support!</b>
 <p>
